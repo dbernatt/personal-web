@@ -5,5 +5,8 @@
 	},
 	"editor.formatOnSave": true,
 	"editor.tabSize": 2,
-	"editor.insertSpaces": false
+	"editor.insertSpaces": false,
+	"files.associations": {
+    "*.css": "tailwindcss"
+  }
 }
