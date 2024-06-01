@@ -46,6 +46,5 @@
 		"*": [
 			"biome check --no-errors-on-unmatched --files-ignore-unknown=true"
 		]
-	},
-	"packageManager": "yarn@4.0.2"
+	}
 }
