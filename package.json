@@ -1,6 +1,7 @@
 {
 	"name": "personal-web",
 	"version": "0.1.0",
+	"license": "UNLICENSED",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
@@ -46,5 +47,6 @@
 		"*": [
 			"biome check --no-errors-on-unmatched --files-ignore-unknown=true"
 		]
-	}
+	},
+	"packageManager": "yarn@1.22.21"
 }
